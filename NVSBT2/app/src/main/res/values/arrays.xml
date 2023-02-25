@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array">
+        <![CDATA[<?xml version="1.0" encoding="utf-8"?> <resources>     <string-array name="planets_array">                 <item>Cử Nhân</item>
+        <item>Thạc sĩ</item>
+        <item>Tiến Sĩ</item>
+   </string-array> </resources>]]>
+    </string-array>
+</resources>
